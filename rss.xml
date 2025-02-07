@@ -4,9 +4,15 @@
         <title>Product Hunt daily RSS feed</title>
         <link>https://github.com/headllines/producthunt-daily-rss</link>
         <description>The missing RSS feed for ProductHunt daily top posts</description>
-        <lastBuildDate>Thu, 06 Feb 2025 06:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 06:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Product Hunt daily top posts @2025/02/06]]></title>
+            <link>https://www.producthunt.com/leaderboard/daily/2025/02/06/</link>
+            <guid>https://www.producthunt.com/leaderboard/daily/2025/02/06/</guid>
+            <pubDate>Fri, 07 Feb 2025 06:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Product Hunt daily top posts @2025/02/05]]></title>
             <link>https://www.producthunt.com/leaderboard/daily/2025/02/05/</link>
@@ -90,12 +96,6 @@
             <link>https://www.producthunt.com/leaderboard/daily/2025/01/23/</link>
             <guid>https://www.producthunt.com/leaderboard/daily/2025/01/23/</guid>
             <pubDate>Fri, 24 Jan 2025 06:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product Hunt daily top posts @2025/01/22]]></title>
-            <link>https://www.producthunt.com/leaderboard/daily/2025/01/22/</link>
-            <guid>https://www.producthunt.com/leaderboard/daily/2025/01/22/</guid>
-            <pubDate>Thu, 23 Jan 2025 06:06:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
